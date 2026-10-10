@@ -20,6 +20,6 @@
     { "name": "Basic Aerodynamic Wax",                  "effect": "Basic",           "level": "30", "affects": "Top Speed", "description": "Increases top speed. Aerodynamic Wax enhances your vehicle’s top speed ensuring you glide over the track with unparalleled smoothness."},
     { "name": "Enhanced Aerodynamic Wax",               "effect": "Enhanced",        "level": "32", "affects": "Top Speed", "description": "Increases top speed. Aerodynamic Wax enhances your vehicle’s top speed ensuring you glide over the track with unparalleled smoothness."},
     { "name": "Max Performance Aerodynamic Wax",        "effect": "Max Performance", "level": "40", "affects": "Top Speed", "description": "Increases top speed. Aerodynamic Wax enhances your vehicle’s top speed ensuring you glide over the track with unparalleled smoothness."},
-    { "name": "Hot Sauce",                              "effect": "Max Performance", "level": "30", "affects": "Boost", "description": "Gives an additional boost. The Hot Sauce Boost propels you forward with an explosive surge. Great for overtaking rivals or making that final dash to the finish line."}
+    { "name": "Hot Sauce Boost",                              "effect": "Max Performance", "level": "30", "affects": "Boost", "description": "Gives an additional boost. The Hot Sauce Boost propels you forward with an explosive surge. Great for overtaking rivals or making that final dash to the finish line."}
   ]
 }
