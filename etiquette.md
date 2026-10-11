@@ -1,8 +1,6 @@
 ## Etiquette
 **Normal Racing**
-- item 1
-- item 2
+- coming soon
 
 **Competitive Racing**
-- item 1
-- item 2
+- coming soon
