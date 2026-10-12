@@ -1,8 +1,9 @@
-# Racing in Upland
-## Competitive Racing  
-### Harvest Season 2026  
-Registered racers will compete across six weeks of points-scoring racing.  
-Qualifying runs start on Thurs at 9 AM PT and run through Mon at 9 AM PT.
+# COMPETITIVE RACING IN UPLAND
+## HARVEST SEASON 2026[^1]  
+_Registration has closed_  
+
+### SCHEDULE
+Registered racers will compete across six weeks of points-scoring racing. Qualifying runs start on Thurs at 9 AM PT and run through Mon at 9 AM PT.
 
 **Week 1: - NOLA** _by Greenturtle_
 - Qualifying: Thurs, Oct 8 - Mon, Oct 12
@@ -26,16 +27,15 @@ Qualifying runs start on Thurs at 9 AM PT and run through Mon at 9 AM PT.
 _Special: Bonus Points Week. The bonus point boost will be announced before Week 5 qualifying begins._
 
 **Week 6: Interlagos** _by SCP_
-- Qualifying: Thursday, November 12 - Monday, November 16
-- Race Event: Friday, November 20 —  10:30am PT/ 1:30pm ET  
+- Qualifying: Thurs, Nov 12 - Mon, Nov 16
+- Race Event: Fri, Nov 20 - 10:30am PT/ 1:30pm ET  
 _Season Format: A sixth points-scoring race, not a standalone Season Championship Final._
 
-Alternate Tracks: #1 Woodhaven Stretch Queens and #2 Shadow Hills Circuit may be used if issues arise with the scheduled track.
+**Alternate Tracks:**  
+- #1 -Woodhaven Stretch Queens
+- #2 -Shadow Hills Circuit
 
-Grab your Racing Pass before Wednesday, October 7 at 9 AM PT. Your next race could be the one that moves you up the standings.
-
-Season Format
-
+### SEASON FORMAT
 The Harvest 2026 Championship Racing Season includes six weeks of points-scoring racing, with no standalone Season Championship Final.
 Each week features a public track on the official schedule.
 Qualifying runs from Thursday at 9 AM PT through Monday at 9 AM PT.
@@ -63,12 +63,14 @@ Positions 7 through 18 are based on semifinal race times.
 Positions 19 through 24 are based on qualifying times.
 Weekly Points System
 
-Power-Ups and MPS
+### POWER-UPS AND MPS
 
 Power-ups are included in a racer’s total Max Performance Score.
 Racers may choose a higher-performance vehicle with fewer boosts or a lower-MPS vehicle that leaves more room for power-ups.
 The stronger power-up boosts introduced in Sizzle remain part of Championship Racing. Racers are responsible for testing their boosts and understanding their effect before competition.
 Power-ups may be purchased on the secondary market and are also available in the Upland Store every Thursday.
+
+[^1]: This is a condensed version of the Harvest 2026 Championship Racing posting from the Upland News and Events webpage and has not been approved by Upland. Please refer to that page if you have questions or concerns.   
 
 **Normal Racing**
 - coming soon
