@@ -95,10 +95,9 @@ Points are awarded by finishing position for all 24 weekly competitors:
 - The stronger power-up boosts introduced in Sizzle remain part of Championship Racing. Racers are responsible for testing their boosts and understanding their effect before competition.
 - Power-ups may be purchased on the secondary market or as a bundle from the Store.
 
-# NORMAL RACING IN UPLAND ##
-- coming soon
-
-
+    
+  
+  
 *This is a condensed version of the Harvest 2026 Championship Racing posting from the Upland News and Events webpage and has not been approved by Upland. Please refer to that page if you have questions or concerns.  
 **Qualifying in this case refers to completing a 3 lap race to receive a qualifying time. It does not refer to running a qualifying lap before a 3 lap race.
 
