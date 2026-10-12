@@ -1,8 +1,8 @@
-# COMPETITIVE RACING IN UPLAND
-## HARVEST SEASON 2026[^1]  
+# COMPETITIVE RACING IN UPLAND #
+## HARVEST SEASON 2026* ##
 _Registration has closed_  
 
-### SCHEDULE
+## SCHEDULE ##
 Registered racers will compete across six weeks of points-scoring racing. Qualifying runs start on Thurs at 9 AM PT and run through Mon at 9 AM PT.
 
 **Week 1: - NOLA** _by Greenturtle_
@@ -35,7 +35,7 @@ _Season Format: A sixth points-scoring race, not a standalone Season Championshi
 - #1 -Woodhaven Stretch Queens
 - #2 -Shadow Hills Circuit
 
-### SEASON FORMAT
+## SEASON FORMAT
 The Harvest 2026 Championship Racing Season includes six weeks of points-scoring racing, with no standalone Season Championship Final.
 Each week features a public track on the official schedule.
 Qualifying runs from Thursday at 9 AM PT through Monday at 9 AM PT.
@@ -70,7 +70,7 @@ Racers may choose a higher-performance vehicle with fewer boosts or a lower-MPS 
 The stronger power-up boosts introduced in Sizzle remain part of Championship Racing. Racers are responsible for testing their boosts and understanding their effect before competition.
 Power-ups may be purchased on the secondary market and are also available in the Upland Store every Thursday.
 
-[^1]: This is a condensed version of the Harvest 2026 Championship Racing posting from the Upland News and Events webpage and has not been approved by Upland. Please refer to that page if you have questions or concerns.   
+*This is a condensed version of the Harvest 2026 Championship Racing posting from the Upland News and Events webpage and has not been approved by Upland. Please refer to that page if you have questions or concerns.   
 
 **Normal Racing**
 - coming soon
