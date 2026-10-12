@@ -1,32 +1,32 @@
-## Racing in Upland
-### Competitive Racing  
-**Harvest Season 2026**
+# Racing in Upland
+## Competitive Racing  
+### Harvest Season 2026  
 Registered racers will compete across six weeks of points-scoring racing.  
-Qualifying runs start on Thursday at 9 AM PT and run through Monday at 9 AM PT.
+Qualifying runs start on Thurs at 9 AM PT and run through Mon at 9 AM PT.
 
 **Week 1: - NOLA** _by Greenturtle_
-- Qualifying: Thursday, October 8 through Monday, October 12
-- Race Event: Friday, October 16 at 10:30 AM PT / 1:30 PM ET
+- Qualifying: Thurs, Oct 8 - Mon, Oct 12
+- Race Event: Fri, Oct 16 at 10:30 AM PT / 1:30 PM ET
 
 **Week 2: Lightnings Speedway** _by Lightningleg_
-- Qualifying: Thursday, October 15 through Monday, October 19
-- Race Event: Thursday, October 22 at 3:00 PM PT / 6:00 PM ET
+- Qualifying: Thurs, Oct 15 - Mon, Oct 19
+- Race Event: Thurs, Oct 22 at 3:00 PM PT / 6:00 PM ET
 
 **Week 3: C3 KC Run** _by Crowly27_
-- Qualifying: Thursday, October 22 through Monday, October 26
-- Race Event: Friday, October 30 at 10:30 AM PT / 1:30 PM ET
+- Qualifying: Thurs, Oct 22 - Mon, Oct 26
+- Race Event: Fri, Oct 30 at 10:30 AM PT / 1:30 PM ET
 
 **Week 4: AVG BALLIN OUT** _by Vapehiguy_
-- Qualifying: Thursday, October 29 through Monday, November 2
-- Race Event: Friday, November 6 at 3:00 PM PT / 6:00 PM ET
+- Qualifying: Thurs, Oct 29 - Mon, Nov 2
+- Race Event: Fri, Nov 6 at 3:00 PM PT / 6:00 PM ET
 
 **Week 5: Legends Of Kansas** _by Cerebroic_
-- Qualifying: Thursday, November 5 through Monday, November 9
-- Race Event: Friday, November 13 at 3:00 PM PT / 6:00 PM ET  
+- Qualifying: Thurs, Nov 5 - Mon, Nov 9
+- Race Event: Fri, Nov 13 at 3:00 PM PT / 6:00 PM ET  
 _Special: Bonus Points Week. The bonus point boost will be announced before Week 5 qualifying begins._
 
 **Week 6: Interlagos** _by SCP_
-- Qualifying: Thursday, November 12 through Monday, November 16
+- Qualifying: Thursday, November 12 - Monday, November 16
 - Race Event: Friday, November 20 —  10:30am PT/ 1:30pm ET  
 _Season Format: A sixth points-scoring race, not a standalone Season Championship Final._
 
