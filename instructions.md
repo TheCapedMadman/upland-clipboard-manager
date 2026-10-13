@@ -6,7 +6,7 @@ _Registration has closed_
 Registered racers will compete across six weeks of points-scoring racing. Qualifying runs start on Thurs at 9 AM PT and run through Mon at 9 AM PT.
 
 **Week 1: - NOLA** _by Greenturtle_
-- Qualifying: Thurs, Oct 8 - Mon, Oct 12
+- Qualifying: _Completed_
 - Race Event: Fri, Oct 16 at 10:30 AM PT / 1:30 PM ET
 
 **Week 2: Lightnings Speedway** _by Lightningleg_
